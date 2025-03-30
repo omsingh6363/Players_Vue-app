@@ -20,7 +20,7 @@ This project offers an interactive player dashboard built with Vue.js, allowing 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/om6363-crypto/Players_Vue-app.git
+   git clone https://github.com/omsingh6363/Players_Vue-app.git
    ```
 
 2. **Install Dependencies:**
@@ -70,4 +70,4 @@ Players_vue-app/
 We welcome contributions to this project! If you have any improvements, bug fixes, or feature additions, please fork the repository and submit pull requests.
 
 ## Author
-https://github.com/om6363-crypto
+https://github.com/omsingh6363
